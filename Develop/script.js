@@ -21,8 +21,34 @@ function generatePassword() {
     return "";
   }
 
+  // user prompt for lowercase letters
+  var lowerCaseUser = prompt("Would you like to include lowercase characters?")
 
-  return "Generated password will go here!"
+  if (lowerCaseUser){
+    passwordChar += lowerCaseUser;
+  }
+
+  // user prompt for uppercase letters
+  var upperCaseUser = prompt("Would you like to include uppercase characters?")
+
+  if (upperCaseUser){
+    passwordChar += upperCaseUser;
+  }
+
+  // user prompt for numbers
+  var numberCaseUser = prompt("Would you like to include numerical characters?")
+
+  if (numberCaseUser){
+    passwordChar += numberCaseUser;
+  }
+
+  // user prompt for special characters
+  var symbolCaseUser = prompt("Would you like to include special characters?")
+
+  if (symbolCaseUser){
+    passwordChar += symbolCaseUser;
+  }
+
 }
 
 // Write password to the #password input
