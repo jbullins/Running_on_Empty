@@ -7,7 +7,7 @@ HTML, CSS JavaScript
 
 Screen Shot
 
-![Screen Shot] (/Users/joshbullins/Desktop/assignment3/Screen Shot 2022-05-22 at 9.25.45 PM.png)
+![Screen Shot] (Screen Shot 2022-05-22 at 9.25.45 PM.png)
 
 Link to Deployed Application
 
