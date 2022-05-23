@@ -6,6 +6,7 @@ Technologies Used
 HTML, CSS JavaScript
 
 Screen Shot
-![Alt text] (/Users/joshbullins/Desktop/assignment3/Screen Shot 2022-05-22 at 9.25.45 PM.png)
+
+![Screen Shot] (/Users/joshbullins/Desktop/assignment3/Screen Shot 2022-05-22 at 9.25.45 PM.png)
 
 Link to Deployed Application
