@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator 
 ## Description
 In this project a random password has to be made, with prompts for the number of characters, and what character types are wanted by the user.
 
